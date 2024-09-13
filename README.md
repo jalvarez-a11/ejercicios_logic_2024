@@ -1,0 +1,2 @@
+# ejercicios_logic_2024
+ejercicios_logic_2024
